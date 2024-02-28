@@ -3,7 +3,7 @@ const {createApp} = Vue
 createApp({
     data(){
         return{
-            messaggio : 'ciao'
+            apiUrl : 'server.php'
         }
     },
     methods : {

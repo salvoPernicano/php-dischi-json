@@ -9,7 +9,7 @@
 
 <body>
 <div id="app">
-<h1> {{messaggio}} </h1>
+
 
 </div>
 
