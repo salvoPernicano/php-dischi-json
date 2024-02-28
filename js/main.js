@@ -3,7 +3,8 @@ const {createApp} = Vue
 createApp({
     data(){
         return{
-            apiUrl : 'server.php'
+            apiUrl : 'server.php',
+            arrayDischi : []
         }
     },
     methods : {
